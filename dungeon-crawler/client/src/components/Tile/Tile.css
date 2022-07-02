@@ -1,0 +1,19 @@
+.Tile {
+    min-width: 2em;
+    width: 2em;
+    height: 2em;
+    border: 2px solid red;
+    margin: .5em;
+}
+
+.selected { 
+    border: 2px solid pink;
+}
+
+.wall {
+    background-color: black;
+}
+
+.path {
+    background-color: grey;
+}
